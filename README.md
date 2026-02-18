@@ -55,16 +55,8 @@
       <b><a href="https://github.com/Antariksh62/WanderLust">WanderLust</a></b>: Full-stack Airbnb clone with AI features. 
       (<a href="https://wanderlust-zxrz.onrender.com/listings">Live Demo</a>)
     </li>
-    <li>
-      
-    </li>
   </ul>
 </div>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Antariksh62&show_icons=true&theme=dracula&hide_border=true" alt="Antariksh's Github Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antariksh62&theme=dracula&hide_border=true" alt="Antariksh's Streak" />
-
 </div>
