@@ -8,7 +8,7 @@
 
 <br>
 
-<h3>🚀 Languages and Tools I Use</h3>
+<h3>Languages and Tools I Use</h3>
 
 <p>
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3>⚡ Where to find me</h3>
+<h3>Where to find me</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/antariksh-kothari" target="_blank">
