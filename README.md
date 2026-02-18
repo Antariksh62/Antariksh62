@@ -8,7 +8,7 @@
 
 <br>
 
-<h3>🚀 Languages and Tools I Use</h3>
+<h3>🚀Languages and Tools I Use</h3>
 
 <p>
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3>⚡ Where to find me</h3>
+<h3>⚡Where to find me</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/antariksh-kothari" target="_blank">
@@ -35,6 +35,6 @@
 <ul>
   <li>
     <b><a href="https://github.com/Antariksh62/WanderLust">WanderLust</a></b>: Full-stack Airbnb clone with AI features. 
-    (<a href="https://wanderlust-zxrz.onrender.com/listings">Live Demo</a>)
+    (<a href="https://wanderlust-zxrz.onrender.com/listings">Deployed link</a>)
   </li>
 </ul>
