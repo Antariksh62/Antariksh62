@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # Hi <span>👋</span>, I'm Antariksh!
 
