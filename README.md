@@ -6,7 +6,6 @@
 
 <p>
   <i>Computer Engineering Student at PICT (Class of 2028)</i><br>
-  <i>Incoming SDE Intern at Josh Software (Summer 2026)</i>
 </p>
 
 <br>
