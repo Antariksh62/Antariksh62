@@ -1,11 +1,9 @@
-<div>
-  
 # Hi <span>👋</span>, I'm Antariksh!
 
 ### A passionate Full Stack Developer from Pune 🇮🇳
 
 <p>
-  <i>Computer Engineering Student at PICT (Class of 2028)</i><br>
+  <i>Computer Engineering Student at PICT (Class of 2028)</i>
 </p>
 
 <br>
@@ -14,7 +12,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,aws,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,aws,git" />
   </a>
 </p>
 
@@ -33,17 +31,10 @@
 
 <br>
 
-<div align="left">
-  <h3>🔭 Featured Projects</h3>
-  <ul>
-    <li>
-      <b><a href="https://github.com/Antariksh62/WanderLust">WanderLust</a></b>: Full-stack Airbnb clone with AI features. 
-      (<a href="https://wanderlust-zxrz.onrender.com/listings">Live Demo</a>)
-    </li>
-  </ul>
-</div>
-
-<br>
-
-
-</div>
+<h3>🔭 Featured Projects</h3>
+<ul>
+  <li>
+    <b><a href="https://github.com/Antariksh62/WanderLust">WanderLust</a></b>: Full-stack Airbnb clone with AI features. 
+    (<a href="https://wanderlust-zxrz.onrender.com/listings">Live Demo</a>)
+  </li>
+</ul>
