@@ -38,3 +38,12 @@
     (<a href="https://wanderlust-zxrz.onrender.com/listings">Deployed link</a>)
   </li>
 </ul>
+
+<ul>
+  <li>
+    <b><a href="https://finance-dashboard-zncy.onrender.com">Finance-Dashboard</a></b>: Finance management application featuring secure authentication, role-based access control, expense tracking, and interactive dashboard analytics for monitoring financial activities.
+  </li>
+</ul>
+
+
+
