@@ -39,6 +39,15 @@
   </li>
 </ul>
 
+ 
+<ul>
+  <li>
+    <b><a href="https://github.com/Antariksh62/Stock-Trading-Platform">Stock-Broking-Platform</a></b>: A stock trading platform with AI-powered features to analyze portfolios and provide insights into investment performance, kinda like zerodha.
+    (<a href="https://stock-trading-platform-wx2c.onrender.com/">Deployed Link</a>)
+  </li>
+</ul>
+
+
 
 
 
